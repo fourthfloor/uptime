@@ -7,10 +7,36 @@ sites:
     url: https://www.fourthfloorinteractive.com
   - name: Fourth Projects
     url: https://www.fourthprojects.com
+    
   - name: Go Fish Academy & Tacklebox
     url: https://www.gofishacademy.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Gahanna Area Chamber
+    url: https://www.gahannaareachamber.com
+    
+  - name: Wishing Out Loud
+    url: https://www.wishingoutloud.com
+  - name: Welcome Change
+    url: https://www.welcomechange.com
+  - name: Silver Ink Publishing
+    url: https://www.silverinkpublishing.com
+  - name: World of Words WOW
+    url: https://www.worldofwordswow.com
+    
+  - name: Basic
+    url: https://www.basic.co.uk
+  - name: Basic Online
+    url: https://www.basiconline.net
+    
+  - name: Yudu Salons
+    url: https://www.yudusalons.com
+  - name: Central Home Systems
+    url: https://www.chomesystems.com
+   - name: C|Suites
+    url: https://www.csuitesoffices.com
+    
+  - name: Advantage Print Solutions
+    url: https://www.advantageprintsolutions.com   
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
