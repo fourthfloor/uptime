@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-15": 6,
+      "2021-09-15": 210,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
       "2021-09-12": 150
@@ -153,36 +153,40 @@
     "url": "https://www.basic.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.basic.co.uk",
     "slug": "basic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 828,
     "timeDay": 837,
     "timeWeek": 828,
     "timeMonth": 828,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-15": 1
+    }
   },
   {
     "name": "Basic Online",
     "url": "https://www.basiconline.net",
     "icon": "https://favicons.githubusercontent.com/www.basiconline.net",
     "slug": "basic-online",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 595,
     "timeDay": 577,
     "timeWeek": 595,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-15": 0
+    }
   },
   {
     "name": "Yudu Salons",
