@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-27": 1260,
+      "2021-09-27": 1281,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
@@ -96,11 +96,11 @@
     "icon": "https://favicons.githubusercontent.com/www.wishingoutloud.com",
     "slug": "wishing-out-loud",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "94.61%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "94.62%",
     "time": 411,
     "timeDay": 425,
     "timeWeek": 451,
@@ -115,9 +115,9 @@
     "url": "https://www.welcomechange.com",
     "icon": "https://favicons.githubusercontent.com/www.welcomechange.com",
     "slug": "welcome-change",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -127,6 +127,7 @@
     "timeMonth": 2548,
     "timeYear": 2548,
     "dailyMinutesDown": {
+      "2021-09-27": 0,
       "2021-09-18": 16
     }
   },
@@ -190,19 +191,17 @@
     "icon": "https://favicons.githubusercontent.com/www.basiconline.net",
     "slug": "basic-online",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 564,
     "timeWeek": 580,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2021-09-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yudu Salons",
