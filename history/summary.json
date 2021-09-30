@@ -42,18 +42,20 @@
     "url": "https://www.gofishacademy.com",
     "icon": "https://favicons.githubusercontent.com/www.gofishacademy.com",
     "slug": "go-fish-academy-and-tacklebox",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2100,
     "timeDay": 1645,
     "timeWeek": 2155,
     "timeMonth": 2100,
     "timeYear": 2100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 2
+    }
   },
   {
     "name": "Gahanna Area Chamber",
@@ -72,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-30": 691,
+      "2021-09-30": 701,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
@@ -118,19 +120,19 @@
     "url": "https://www.welcomechange.com",
     "icon": "https://favicons.githubusercontent.com/www.welcomechange.com",
     "slug": "welcome-change",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 2808,
     "timeDay": 3478,
     "timeWeek": 3647,
     "timeMonth": 2808,
     "timeYear": 2808,
     "dailyMinutesDown": {
-      "2021-09-30": 7,
+      "2021-09-30": 1,
       "2021-09-18": 16
     }
   },
@@ -212,19 +214,17 @@
     "icon": "https://favicons.githubusercontent.com/www.yudusalons.com",
     "slug": "yudu-salons",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 903,
     "timeWeek": 531,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {
-      "2021-09-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Central Home Systems",
