@@ -4,36 +4,39 @@
     "url": "https://www.fourthfloorinteractive.com",
     "icon": "https://favicons.githubusercontent.com/www.fourthfloorinteractive.com",
     "slug": "fourth-floor-interactive",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 383,
     "timeDay": 343,
     "timeWeek": 321,
     "timeMonth": 392,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 5
+    }
   },
   {
     "name": "Fourth Projects",
     "url": "https://www.fourthprojects.com",
     "icon": "https://favicons.githubusercontent.com/www.fourthprojects.com",
     "slug": "fourth-projects",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.06%",
     "time": 427,
     "timeDay": 358,
     "timeWeek": 460,
     "timeMonth": 440,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2021-11-18": 5,
       "2021-09-19": 893
     }
   },
@@ -42,18 +45,20 @@
     "url": "https://www.gofishacademy.com",
     "icon": "https://favicons.githubusercontent.com/www.gofishacademy.com",
     "slug": "go-fish-academy-and-tacklebox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2192,
     "timeDay": 1647,
     "timeWeek": 2107,
     "timeMonth": 2271,
     "timeYear": 2192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 4
+    }
   },
   {
     "name": "Gahanna Area Chamber",
@@ -72,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-18": 7,
+      "2021-11-18": 136,
       "2021-11-17": 1440,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
@@ -147,11 +152,11 @@
     "url": "https://www.wishingoutloud.com",
     "icon": "https://favicons.githubusercontent.com/www.wishingoutloud.com",
     "slug": "wishing-out-loud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.78%",
     "time": 483,
     "timeDay": 552,
@@ -159,6 +164,7 @@
     "timeMonth": 500,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2021-11-18": 4,
       "2021-09-16": 1163
     }
   },
@@ -167,11 +173,11 @@
     "url": "https://www.welcomechange.com",
     "icon": "https://favicons.githubusercontent.com/www.welcomechange.com",
     "slug": "welcome-change",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.91%",
     "time": 2294,
     "timeDay": 2356,
@@ -179,6 +185,7 @@
     "timeMonth": 2162,
     "timeYear": 2294,
     "dailyMinutesDown": {
+      "2021-11-18": 3,
       "2021-10-01": 725,
       "2021-09-30": 300,
       "2021-09-18": 16
@@ -189,36 +196,40 @@
     "url": "https://www.silverinkpublishing.com",
     "icon": "https://favicons.githubusercontent.com/www.silverinkpublishing.com",
     "slug": "silver-ink-publishing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 836,
     "timeWeek": 590,
     "timeMonth": 634,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 3
+    }
   },
   {
     "name": "World of Words WOW",
     "url": "https://www.worldofwordswow.com",
     "icon": "https://favicons.githubusercontent.com/www.worldofwordswow.com",
     "slug": "world-of-words-wow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 542,
     "timeWeek": 734,
     "timeMonth": 583,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 2
+    }
   },
   {
     "name": "Basic",
@@ -261,10 +272,10 @@
     "url": "https://www.yudusalons.com",
     "icon": "https://favicons.githubusercontent.com/www.yudusalons.com",
     "slug": "yudu-salons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
@@ -272,17 +283,19 @@
     "timeWeek": 1025,
     "timeMonth": 747,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 2
+    }
   },
   {
     "name": "Central Home Systems",
     "url": "https://www.chomesystems.com",
     "icon": "https://favicons.githubusercontent.com/www.chomesystems.com",
     "slug": "central-home-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 809,
@@ -290,17 +303,19 @@
     "timeWeek": 964,
     "timeMonth": 881,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 1
+    }
   },
   {
     "name": "C|Suites",
     "url": "https://www.csuitesoffices.com",
     "icon": "https://favicons.githubusercontent.com/www.csuitesoffices.com",
     "slug": "c-suites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
@@ -308,25 +323,28 @@
     "timeWeek": 556,
     "timeMonth": 635,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 1
+    }
   },
   {
     "name": "Advantage Print Solutions",
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://favicons.githubusercontent.com/www.advantageprintsolutions.com",
     "slug": "advantage-print-solutions",
-    "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "87.29%",
+    "status": "down",
+    "uptime": "96.08%",
+    "uptimeDay": "87.28%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "96.07%",
+    "uptimeYear": "96.08%",
     "time": 6755,
     "timeDay": 10217,
     "timeWeek": 5620,
     "timeMonth": 3050,
     "timeYear": 6755,
     "dailyMinutesDown": {
+      "2021-11-18": 0,
       "2021-11-17": 182,
       "2021-10-11": 859,
       "2021-10-10": 1440,
