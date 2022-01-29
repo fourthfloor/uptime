@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 6,
+      "2022-01-29": 38,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -319,10 +319,10 @@
     "url": "https://www.basic.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.basic.co.uk",
     "slug": "basic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 918,
@@ -331,6 +331,7 @@
     "timeMonth": 1204,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2022-01-29": 1,
       "2021-11-25": 26
     }
   },
