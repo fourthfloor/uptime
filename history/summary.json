@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-07": 11,
+      "2022-05-07": 441,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -349,10 +349,10 @@
     "url": "https://www.welcomechange.com",
     "icon": "https://favicons.githubusercontent.com/www.welcomechange.com",
     "slug": "welcome-change",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 2141,
@@ -361,6 +361,7 @@
     "timeMonth": 2217,
     "timeYear": 2141,
     "dailyMinutesDown": {
+      "2022-05-07": 2,
       "2022-03-01": 18,
       "2021-11-23": 16,
       "2021-11-19": 31,
@@ -487,10 +488,10 @@
     "url": "https://www.chomesystems.com",
     "icon": "https://favicons.githubusercontent.com/www.chomesystems.com",
     "slug": "central-home-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 745,
@@ -499,6 +500,7 @@
     "timeMonth": 817,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2022-05-07": 1,
       "2021-11-19": 29,
       "2021-11-18": 48
     }
