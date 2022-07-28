@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.fourthfloorinteractive.com",
     "slug": "fourth-floor-interactive",
     "status": "down",
-    "uptime": "95.27%",
+    "uptime": "95.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.69%",
-    "uptimeYear": "95.27%",
+    "uptimeMonth": "50.04%",
+    "uptimeYear": "95.21%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 315,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-07-28": 14,
+      "2022-07-28": 297,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-28": 14,
+      "2022-07-28": 297,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -643,12 +643,12 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://favicons.githubusercontent.com/www.advantageprintsolutions.com",
     "slug": "advantage-print-solutions",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "94.31%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "94.28%",
     "uptimeWeek": "95.19%",
     "uptimeMonth": "97.67%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 9440,
     "timeDay": 14330,
     "timeWeek": 15894,
@@ -679,7 +679,7 @@
       "2022-01-27": 635,
       "2022-01-26": 543,
       "2022-01-25": 627,
-      "2022-01-24": 245
+      "2022-01-24": 224
     }
   }
 ]
