@@ -8,7 +8,7 @@
     "uptime": "93.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.56%",
+    "uptimeMonth": "28.49%",
     "uptimeYear": "93.29%",
     "time": 338,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 321,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-08-03": 1067,
+      "2022-08-03": 1098,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-03": 1067,
+      "2022-08-03": 1098,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -656,19 +656,19 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://favicons.githubusercontent.com/www.advantageprintsolutions.com",
     "slug": "advantage-print-solutions",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.52%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 9293,
     "timeDay": 2323,
     "timeWeek": 7668,
     "timeMonth": 12033,
     "timeYear": 9293,
     "dailyMinutesDown": {
-      "2022-08-03": 51,
+      "2022-08-03": 52,
       "2022-07-28": 28,
       "2022-07-27": 71,
       "2022-07-25": 210,
@@ -693,7 +693,7 @@
       "2022-01-27": 635,
       "2022-01-26": 543,
       "2022-01-25": 627,
-      "2022-01-24": 183
+      "2022-01-24": 151
     }
   }
 ]
