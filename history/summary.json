@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-03-22": 60,
+      "2023-03-22": 71,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -338,7 +338,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 60,
+      "2023-03-22": 71,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -783,9 +783,9 @@
     "url": "https://www.worldofwordswow.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.worldofwordswow.com.ico",
     "slug": "world-of-words-wow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -795,6 +795,7 @@
     "timeMonth": 598,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2022-11-14": 17,
       "2022-11-06": 29
     }
@@ -903,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2023-03-22": 61,
+      "2023-03-22": 71,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
