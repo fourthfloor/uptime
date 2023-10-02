@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthprojects.com.ico",
     "slug": "fourth-projects",
     "status": "up",
-    "uptime": "50.59%",
+    "uptime": "50.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.35%",
-    "uptimeYear": "2.00%",
+    "uptimeMonth": "25.56%",
+    "uptimeYear": "2.02%",
     "time": 414,
     "timeDay": 200,
     "timeWeek": 423,
@@ -395,8 +395,7 @@
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 1440
+      "2022-10-03": 1440
     }
   },
   {
@@ -428,11 +427,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gahannaareachamber.com.ico",
     "slug": "gahanna-area-chamber",
     "status": "up",
-    "uptime": "10.67%",
+    "uptime": "10.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.90%",
+    "uptimeYear": "21.92%",
     "time": 1232,
     "timeDay": 2117,
     "timeWeek": 1389,
@@ -726,8 +725,7 @@
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 1440
+      "2022-10-03": 1440
     }
   },
   {
@@ -811,7 +809,7 @@
     "uptime": "74.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.35%",
+    "uptimeMonth": "25.56%",
     "uptimeYear": "48.86%",
     "time": 570,
     "timeDay": 400,
@@ -1098,7 +1096,7 @@
     "status": "up",
     "uptime": "78.50%",
     "uptimeDay": "89.30%",
-    "uptimeWeek": "71.71%",
+    "uptimeWeek": "72.62%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "55.90%",
     "time": 568,
@@ -1345,9 +1343,9 @@
     "slug": "advantage-print-solutions",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.70%",
     "time": 11554,
     "timeDay": 18839,
@@ -1355,7 +1353,6 @@
     "timeMonth": 15289,
     "timeYear": 12547,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-26": 28,
       "2023-09-24": 18,
       "2023-09-07": 49,
