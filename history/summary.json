@@ -29,7 +29,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.35%",
+    "uptimeYear": "20.37%",
     "time": 452,
     "timeDay": 621,
     "timeWeek": 417,
@@ -325,8 +325,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -357,11 +356,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gahannaareachamber.com.ico",
     "slug": "gahanna-area-chamber",
     "status": "up",
-    "uptime": "17.92%",
+    "uptime": "17.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "40.07%",
+    "uptimeYear": "40.08%",
     "time": 1939,
     "timeDay": 801,
     "timeWeek": 1016,
@@ -594,8 +593,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -911,8 +909,7 @@
       "2022-12-15": 17,
       "2022-12-13": 21,
       "2022-12-12": 16,
-      "2022-12-10": 20,
-      "2022-12-08": 20
+      "2022-12-10": 20
     }
   },
   {
@@ -945,9 +942,9 @@
     "slug": "yudu-salons",
     "status": "up",
     "uptime": "80.21%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "55.78%",
     "time": 644,
     "timeDay": 159,
@@ -955,7 +952,7 @@
     "timeMonth": 299,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-12-07": 43,
+      "2023-12-07": 33,
       "2023-11-16": 24,
       "2023-10-26": 23,
       "2023-10-05": 29,
@@ -1192,18 +1189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
     "status": "down",
-    "uptime": "97.15%",
+    "uptime": "97.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.14%",
-    "uptimeYear": "94.34%",
+    "uptimeMonth": "45.93%",
+    "uptimeYear": "94.33%",
     "time": 12945,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 13970,
     "timeYear": 12897,
     "dailyMinutesDown": {
-      "2023-12-07": 1404,
+      "2023-12-08": 56,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
