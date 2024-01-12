@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthprojects.com.ico",
     "slug": "fourth-projects",
     "status": "up",
-    "uptime": "56.51%",
+    "uptime": "56.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.95%",
+    "uptimeYear": "29.96%",
     "time": 475,
     "timeDay": 608,
     "timeWeek": 574,
@@ -291,8 +291,7 @@
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
-      "2023-01-13": 1440,
-      "2023-01-12": 1440
+      "2023-01-13": 1440
     }
   },
   {
@@ -327,7 +326,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.66%",
+    "uptimeYear": "49.67%",
     "time": 1795,
     "timeDay": 951,
     "timeWeek": 914,
@@ -525,8 +524,7 @@
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
-      "2023-01-13": 1440,
-      "2023-01-12": 1440
+      "2023-01-13": 1440
     }
   },
   {
@@ -806,18 +804,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basic.co.uk.ico",
     "slug": "basic",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.45%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "99.11%",
     "time": 1332,
     "timeDay": 487,
     "timeWeek": 565,
     "timeMonth": 1616,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-01-11": 0,
+      "2024-01-12": 56,
+      "2024-01-11": 21,
       "2024-01-02": 594,
       "2024-01-01": 1294,
       "2023-12-31": 1211,
@@ -866,7 +865,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "64.52%",
+    "uptimeYear": "64.53%",
     "time": 598,
     "timeDay": 84,
     "timeWeek": 102,
@@ -1019,8 +1018,7 @@
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
-      "2023-01-13": 1440,
-      "2023-01-12": 1440
+      "2023-01-13": 1440
     }
   },
   {
@@ -1084,14 +1082,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.76%",
+    "uptimeYear": "84.75%",
     "time": 13015,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 12872,
     "dailyMinutesDown": {
-      "2024-01-11": 1419,
+      "2024-01-12": 57,
+      "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
