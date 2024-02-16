@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.54%",
+    "uptimeYear": "39.55%",
     "time": 451,
     "timeDay": 515,
     "timeWeek": 456,
@@ -256,8 +256,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   },
   {
@@ -288,11 +287,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gahannaareachamber.com.ico",
     "slug": "gahanna-area-chamber",
     "status": "up",
-    "uptime": "24.40%",
+    "uptime": "24.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.25%",
+    "uptimeYear": "59.26%",
     "time": 1700,
     "timeDay": 723,
     "timeWeek": 1029,
@@ -455,8 +454,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   },
   {
@@ -738,9 +736,9 @@
     "slug": "basic",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.03%",
     "time": 1162,
     "timeDay": 526,
@@ -748,7 +746,6 @@
     "timeMonth": 658,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-02-15": 12,
       "2024-01-24": 22,
       "2024-01-23": 25,
       "2024-01-12": 649,
@@ -798,7 +795,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.10%",
+    "uptimeYear": "74.12%",
     "time": 545,
     "timeDay": 149,
     "timeWeek": 131,
@@ -916,8 +913,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   },
   {
@@ -981,14 +977,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.08%",
+    "uptimeYear": "76.07%",
     "time": 12929,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 12779,
     "dailyMinutesDown": {
-      "2024-02-15": 1417,
+      "2024-02-16": 52,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
