@@ -31,7 +31,7 @@
     "uptimeDay": "97.30%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "46.37%",
+    "uptimeYear": "46.39%",
     "time": 450,
     "timeDay": 575,
     "timeWeek": 506,
@@ -232,8 +232,7 @@
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
-      "2023-03-15": 1440,
-      "2023-03-14": 1440
+      "2023-03-15": 1440
     }
   },
   {
@@ -269,7 +268,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.09%",
+    "uptimeYear": "66.11%",
     "time": 1714,
     "timeDay": 1295,
     "timeWeek": 1373,
@@ -406,8 +405,7 @@
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
-      "2023-03-15": 1440,
-      "2023-03-14": 1440
+      "2023-03-15": 1440
     }
   },
   {
@@ -485,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.worldofwordswow.com.ico",
     "slug": "world-of-words-wow",
     "status": "up",
-    "uptime": "79.35%",
+    "uptime": "79.36%",
     "uptimeDay": "97.51%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
@@ -751,17 +749,16 @@
     "slug": "yudu-salons",
     "status": "up",
     "uptime": "82.28%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "80.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "80.94%",
     "time": 534,
-    "timeDay": 552,
+    "timeDay": 841,
     "timeWeek": 368,
     "timeMonth": 292,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2024-03-12": 10,
       "2024-03-09": 17,
       "2024-03-08": 19,
       "2024-03-06": 72,
@@ -851,8 +848,7 @@
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
-      "2023-03-15": 1440,
-      "2023-03-14": 1440
+      "2023-03-15": 1440
     }
   },
   {
@@ -917,7 +913,7 @@
     "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.70%",
+    "uptimeMonth": "72.90%",
     "uptimeYear": "74.64%",
     "time": 12992,
     "timeDay": 18055,
