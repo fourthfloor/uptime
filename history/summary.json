@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthfloorinteractive.com.ico",
     "slug": "fourth-floor-interactive",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 483,
-    "timeDay": 745,
-    "timeWeek": 663,
-    "timeMonth": 601,
+    "time": 484,
+    "timeDay": 667,
+    "timeWeek": 654,
+    "timeMonth": 604,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2024-03-12": 39,
@@ -26,19 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthprojects.com.ico",
     "slug": "fourth-projects",
     "status": "up",
-    "uptime": "66.51%",
+    "uptime": "66.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.55%",
     "time": 457,
-    "timeDay": 512,
-    "timeWeek": 547,
-    "timeMonth": 498,
+    "timeDay": 662,
+    "timeWeek": 536,
+    "timeMonth": 505,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-03-12": 39,
-      "2023-09-24": 980
+      "2024-03-12": 39
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2445,
-    "timeDay": 1927,
-    "timeWeek": 2538,
-    "timeMonth": 2735,
+    "time": 2446,
+    "timeDay": 1987,
+    "timeWeek": 2398,
+    "timeMonth": 2697,
     "timeYear": 2517,
     "dailyMinutesDown": {
       "2024-03-12": 38
@@ -67,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gahannaareachamber.com.ico",
     "slug": "gahanna-area-chamber",
     "status": "up",
-    "uptime": "39.38%",
+    "uptime": "39.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1571,
-    "timeDay": 1668,
-    "timeWeek": 1554,
-    "timeMonth": 1282,
-    "timeYear": 1641,
+    "time": 1570,
+    "timeDay": 851,
+    "timeWeek": 1543,
+    "timeMonth": 1283,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2024-07-11": 19,
       "2024-06-27": 20,
@@ -101,15 +100,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.55%",
     "time": 847,
-    "timeDay": 1094,
-    "timeWeek": 1092,
-    "timeMonth": 1086,
+    "timeDay": 864,
+    "timeWeek": 1017,
+    "timeMonth": 1081,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-03-12": 38,
-      "2023-09-24": 980
+      "2024-03-12": 38
     }
   },
   {
@@ -124,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2175,
-    "timeDay": 2503,
-    "timeWeek": 2241,
-    "timeMonth": 2248,
-    "timeYear": 2162,
+    "timeDay": 2401,
+    "timeWeek": 2232,
+    "timeMonth": 2245,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2024-03-12": 38
     }
@@ -143,10 +141,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1021,
-    "timeDay": 1287,
-    "timeWeek": 978,
-    "timeMonth": 894,
+    "time": 1022,
+    "timeDay": 1236,
+    "timeWeek": 1010,
+    "timeMonth": 896,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-05-30": 472,
@@ -161,20 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.worldofwordswow.com.ico",
     "slug": "world-of-words-wow",
     "status": "up",
-    "uptime": "82.96%",
+    "uptime": "82.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.54%",
     "time": 656,
-    "timeDay": 921,
-    "timeWeek": 773,
-    "timeMonth": 714,
+    "timeDay": 860,
+    "timeWeek": 769,
+    "timeMonth": 715,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2024-06-10": 28,
-      "2024-03-12": 36,
-      "2023-09-24": 980
+      "2024-03-12": 36
     }
   },
   {
@@ -189,9 +186,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.94%",
     "time": 710,
-    "timeDay": 546,
-    "timeWeek": 625,
-    "timeMonth": 609,
+    "timeDay": 502,
+    "timeWeek": 623,
+    "timeMonth": 610,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2024-09-11": 71,
@@ -222,9 +219,9 @@
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.40%",
     "time": 531,
-    "timeDay": 419,
-    "timeWeek": 537,
-    "timeMonth": 521,
+    "timeDay": 417,
+    "timeWeek": 532,
+    "timeMonth": 522,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2024-09-06": 351,
@@ -242,14 +239,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yudusalons.com.ico",
     "slug": "yudu-salons",
     "status": "up",
-    "uptime": "85.20%",
+    "uptime": "85.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
-    "time": 421,
-    "timeDay": 123,
-    "timeWeek": 167,
+    "time": 420,
+    "timeDay": 134,
+    "timeWeek": 168,
     "timeMonth": 160,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -281,8 +278,7 @@
       "2023-09-28": 65,
       "2023-09-27": 81,
       "2023-09-26": 996,
-      "2023-09-25": 1440,
-      "2023-09-24": 460
+      "2023-09-25": 1440
     }
   },
   {
@@ -296,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 973,
-    "timeDay": 1377,
-    "timeWeek": 1108,
-    "timeMonth": 1063,
-    "timeYear": 1024,
+    "time": 974,
+    "timeDay": 1275,
+    "timeWeek": 1134,
+    "timeMonth": 1073,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2024-05-12": 16,
       "2024-03-12": 35
@@ -318,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 698,
-    "timeDay": 905,
-    "timeWeek": 809,
-    "timeMonth": 722,
+    "timeDay": 834,
+    "timeWeek": 794,
+    "timeMonth": 720,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2024-03-12": 35
@@ -332,16 +328,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
     "status": "up",
-    "uptime": "89.89%",
+    "uptime": "89.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "70.95%",
-    "time": 13969,
-    "timeDay": 9905,
-    "timeWeek": 10996,
-    "timeMonth": 15057,
-    "timeYear": 14715,
+    "time": 13982,
+    "timeDay": 14288,
+    "timeWeek": 11020,
+    "timeMonth": 15102,
+    "timeYear": 14720,
     "dailyMinutesDown": {
       "2024-09-18": 60,
       "2024-09-11": 131,
@@ -462,8 +458,7 @@
       "2023-10-23": 23,
       "2023-10-10": 86,
       "2023-10-07": 40,
-      "2023-09-26": 28,
-      "2023-09-24": 18
+      "2023-09-26": 28
     }
   }
 ]
