@@ -27,9 +27,9 @@
     "slug": "fourth-projects",
     "status": "down",
     "uptime": "67.19%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 458,
     "timeDay": 230,
@@ -37,7 +37,7 @@
     "timeMonth": 491,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-10-15": 0,
+      "2024-10-15": 12,
       "2024-03-12": 39
     }
   },
@@ -118,9 +118,9 @@
     "slug": "welcome-change",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 2172,
     "timeDay": 532,
@@ -128,7 +128,7 @@
     "timeMonth": 2118,
     "timeYear": 2151,
     "dailyMinutesDown": {
-      "2024-10-15": 0,
+      "2024-10-15": 12,
       "2024-03-12": 38
     }
   },
@@ -162,9 +162,9 @@
     "slug": "world-of-words-wow",
     "status": "down",
     "uptime": "83.31%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 657,
     "timeDay": 322,
@@ -172,7 +172,7 @@
     "timeMonth": 704,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-10-15": 0,
+      "2024-10-15": 12,
       "2024-06-10": 28,
       "2024-03-12": 36
     }
