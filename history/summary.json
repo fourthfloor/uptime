@@ -49,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofishacademy.com.ico",
     "slug": "go-fish-academy-and-tacklebox",
     "status": "down",
-    "uptime": "93.75%",
+    "uptime": "93.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -60,7 +60,7 @@
     "timeMonth": 785,
     "timeYear": 2191,
     "dailyMinutesDown": {
-      "2024-12-26": 69,
+      "2024-12-26": 109,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -402,18 +402,19 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "76.16%",
+    "uptimeDay": "78.90%",
     "uptimeWeek": "77.79%",
     "uptimeMonth": "93.48%",
     "uptimeYear": "99.34%",
-    "time": 12396,
-    "timeDay": 9610,
-    "timeWeek": 10929,
-    "timeMonth": 11092,
-    "timeYear": 11895,
+    "time": 12388,
+    "timeDay": 9524,
+    "timeWeek": 10908,
+    "timeMonth": 11076,
+    "timeYear": 11886,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-12-25": 411,
       "2024-12-24": 309,
       "2024-12-23": 495,
@@ -431,8 +432,7 @@
       "2024-11-14": 41,
       "2024-11-12": 302,
       "2024-11-08": 220,
-      "2024-11-07": 5,
-      "2024-11-06": 46
+      "2024-11-07": 5
     }
   }
 ]
