@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthprojects.com.ico",
     "slug": "fourth-projects",
     "status": "up",
-    "uptime": "69.15%",
+    "uptime": "69.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -60,7 +60,7 @@
     "timeMonth": 785,
     "timeYear": 2191,
     "dailyMinutesDown": {
-      "2024-12-26": 408,
+      "2024-12-26": 420,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -403,17 +403,17 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "77.78%",
-    "uptimeWeek": "77.00%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "76.99%",
     "uptimeMonth": "93.19%",
-    "uptimeYear": "99.34%",
-    "time": 12355,
-    "timeDay": 10062,
-    "timeWeek": 10996,
-    "timeMonth": 11126,
-    "timeYear": 11903,
+    "uptimeYear": "99.35%",
+    "time": 12339,
+    "timeDay": 9959,
+    "timeWeek": 10973,
+    "timeMonth": 11109,
+    "timeYear": 11894,
     "dailyMinutesDown": {
       "2024-12-26": 126,
       "2024-12-25": 411,
@@ -432,7 +432,7 @@
       "2024-11-16": 20,
       "2024-11-14": 41,
       "2024-11-12": 302,
-      "2024-11-08": 149
+      "2024-11-08": 90
     }
   }
 ]
