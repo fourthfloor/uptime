@@ -62,7 +62,7 @@
     "timeMonth": 767,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2024-12-29": 548,
+      "2024-12-29": 566,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -147,7 +147,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gahannaareachamber.com.ico",
     "slug": "gahanna-area-chamber",
     "status": "up",
-    "uptime": "44.33%",
+    "uptime": "44.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -412,14 +412,14 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "77.77%",
+    "uptimeDay": "77.80%",
     "uptimeWeek": "75.47%",
-    "uptimeMonth": "92.68%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
-    "time": 12083,
-    "timeDay": 10728,
+    "time": 12084,
+    "timeDay": 10676,
     "timeWeek": 10423,
     "timeMonth": 10906,
     "timeYear": 11677,
@@ -434,7 +434,7 @@
       "2024-12-22": 256,
       "2024-12-21": 164,
       "2024-12-20": 334,
-      "2024-12-19": 133
+      "2024-12-19": 107
     }
   }
 ]
