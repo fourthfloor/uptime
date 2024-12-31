@@ -13,7 +13,7 @@
     "time": 496,
     "timeDay": 220,
     "timeWeek": 442,
-    "timeMonth": 475,
+    "timeMonth": 476,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2024-12-29": 93,
@@ -36,7 +36,7 @@
     "time": 456,
     "timeDay": 204,
     "timeWeek": 409,
-    "timeMonth": 433,
+    "timeMonth": 434,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2024-12-29": 93,
@@ -54,15 +54,16 @@
     "uptime": "93.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "78.95%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "78.93%",
     "time": 2242,
     "timeDay": 493,
     "timeWeek": 741,
-    "timeMonth": 765,
+    "timeMonth": 766,
     "timeYear": 2163,
     "dailyMinutesDown": {
-      "2024-12-30": 1428,
+      "2024-12-31": 69,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -156,7 +157,7 @@
     "time": 1709,
     "timeDay": 1833,
     "timeWeek": 1184,
-    "timeMonth": 1522,
+    "timeMonth": 1543,
     "timeYear": 1493,
     "dailyMinutesDown": {
       "2024-07-11": 19,
@@ -180,7 +181,7 @@
     "time": 942,
     "timeDay": 1472,
     "timeWeek": 1487,
-    "timeMonth": 1439,
+    "timeMonth": 1442,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2024-12-29": 93,
@@ -202,7 +203,7 @@
     "time": 2111,
     "timeDay": 1346,
     "timeWeek": 1728,
-    "timeMonth": 1804,
+    "timeMonth": 1798,
     "timeYear": 1983,
     "dailyMinutesDown": {
       "2024-10-15": 83,
@@ -223,7 +224,7 @@
     "time": 1011,
     "timeDay": 427,
     "timeWeek": 608,
-    "timeMonth": 685,
+    "timeMonth": 689,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2024-05-30": 472,
@@ -246,7 +247,7 @@
     "time": 669,
     "timeDay": 553,
     "timeWeek": 749,
-    "timeMonth": 764,
+    "timeMonth": 768,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2024-10-15": 83,
@@ -264,11 +265,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.99%",
     "time": 730,
     "timeDay": 950,
     "timeWeek": 1298,
-    "timeMonth": 861,
+    "timeMonth": 855,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2024-12-27": 81,
@@ -283,8 +284,7 @@
       "2024-01-23": 25,
       "2024-01-12": 649,
       "2024-01-11": 21,
-      "2024-01-02": 594,
-      "2024-01-01": 1294
+      "2024-01-02": 594
     }
   },
   {
@@ -329,7 +329,7 @@
     "time": 461,
     "timeDay": 462,
     "timeWeek": 723,
-    "timeMonth": 744,
+    "timeMonth": 738,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2024-12-30": 53,
@@ -379,7 +379,7 @@
     "time": 1007,
     "timeDay": 396,
     "timeWeek": 747,
-    "timeMonth": 865,
+    "timeMonth": 874,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-05-12": 16,
@@ -392,7 +392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csuitesoffices.com.ico",
     "slug": "c-suites",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
@@ -415,17 +415,17 @@
     "slug": "advantage-print-solutions",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "83.77%",
-    "uptimeWeek": "77.55%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "84.62%",
+    "uptimeWeek": "77.67%",
+    "uptimeMonth": "92.67%",
+    "uptimeYear": "99.39%",
     "time": 12080,
     "timeDay": 9680,
     "timeWeek": 10272,
-    "timeMonth": 10807,
+    "timeMonth": 10806,
     "timeYear": 11565,
     "dailyMinutesDown": {
-      "2024-12-30": 234,
+      "2024-12-30": 222,
       "2024-12-29": 282,
       "2024-12-28": 322,
       "2024-12-27": 419,
@@ -434,7 +434,8 @@
       "2024-12-24": 309,
       "2024-12-23": 495,
       "2024-12-22": 256,
-      "2024-12-21": 164
+      "2024-12-21": 164,
+      "2024-12-20": 45
     }
   }
 ]
