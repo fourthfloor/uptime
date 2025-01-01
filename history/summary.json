@@ -62,7 +62,7 @@
     "timeMonth": 759,
     "timeYear": 2157,
     "dailyMinutesDown": {
-      "2025-01-01": 1051,
+      "2025-01-01": 1075,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -322,9 +322,9 @@
     "slug": "yudu-salons",
     "status": "up",
     "uptime": "86.40%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.28%",
     "time": 455,
     "timeDay": 147,
@@ -332,7 +332,6 @@
     "timeMonth": 715,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-01-01": 13,
       "2024-12-31": 23,
       "2024-12-30": 53,
       "2024-12-29": 33,
@@ -415,17 +414,17 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "75.03%",
+    "uptimeDay": "75.00%",
     "uptimeWeek": "78.92%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.37%",
-    "time": 11818,
-    "timeDay": 10425,
-    "timeWeek": 10255,
-    "timeMonth": 10758,
-    "timeYear": 11494,
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "99.38%",
+    "time": 11814,
+    "timeDay": 10357,
+    "timeWeek": 10238,
+    "timeMonth": 10753,
+    "timeYear": 11491,
     "dailyMinutesDown": {
       "2025-01-01": 320,
       "2024-12-31": 245,
@@ -436,8 +435,7 @@
       "2024-12-26": 283,
       "2024-12-25": 411,
       "2024-12-24": 309,
-      "2024-12-23": 495,
-      "2024-12-22": 7
+      "2024-12-23": 435
     }
   }
 ]
