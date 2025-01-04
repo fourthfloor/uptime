@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofishacademy.com.ico",
     "slug": "go-fish-academy-and-tacklebox",
     "status": "down",
-    "uptime": "93.00%",
+    "uptime": "92.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,7 @@
     "timeMonth": 779,
     "timeYear": 2148,
     "dailyMinutesDown": {
-      "2025-01-04": 1053,
+      "2025-01-04": 1076,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -323,9 +323,9 @@
     "url": "https://www.yudusalons.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yudusalons.com.ico",
     "slug": "yudu-salons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "92.74%",
+    "uptimeDay": "92.70%",
     "uptimeWeek": "96.45%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "99.24%",
@@ -335,7 +335,7 @@
     "timeMonth": 698,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-01-04": 97,
+      "2025-01-04": 98,
       "2025-01-03": 102,
       "2025-01-02": 28,
       "2024-12-31": 23,
@@ -422,17 +422,17 @@
     "slug": "advantage-print-solutions",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "82.04%",
-    "uptimeWeek": "79.97%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "82.90%",
+    "uptimeWeek": "80.14%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "99.40%",
     "time": 11729,
     "timeDay": 10908,
-    "timeWeek": 10487,
+    "timeWeek": 10500,
     "timeMonth": 10715,
     "timeYear": 11401,
     "dailyMinutesDown": {
-      "2025-01-04": 186,
+      "2025-01-04": 174,
       "2025-01-03": 430,
       "2025-01-02": 176,
       "2025-01-01": 366,
@@ -442,7 +442,7 @@
       "2024-12-28": 322,
       "2024-12-27": 419,
       "2024-12-26": 283,
-      "2024-12-25": 185
+      "2024-12-25": 215
     }
   }
 ]
