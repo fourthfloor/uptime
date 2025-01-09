@@ -58,14 +58,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.36%",
+    "uptimeYear": "76.35%",
     "time": 2216,
     "timeDay": 984,
     "timeWeek": 824,
     "timeMonth": 788,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2025-01-09": 668,
+      "2025-01-09": 697,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -437,17 +437,17 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "81.66%",
+    "uptimeDay": "82.33%",
     "uptimeWeek": "80.41%",
-    "uptimeMonth": "92.65%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
-    "time": 11571,
-    "timeDay": 11477,
-    "timeWeek": 11303,
-    "timeMonth": 10853,
-    "timeYear": 11421,
+    "time": 11562,
+    "timeDay": 11252,
+    "timeWeek": 11307,
+    "timeMonth": 10846,
+    "timeYear": 11416,
     "dailyMinutesDown": {
       "2025-01-09": 132,
       "2025-01-08": 224,
@@ -461,7 +461,7 @@
       "2024-12-31": 245,
       "2024-12-30": 222,
       "2024-12-29": 282,
-      "2024-12-28": 70
+      "2024-12-28": 47
     }
   }
 ]
