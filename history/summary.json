@@ -13,7 +13,7 @@
     "time": 503,
     "timeDay": 284,
     "timeWeek": 513,
-    "timeMonth": 539,
+    "timeMonth": 535,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-03-01": 89,
@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthprojects.com.ico",
     "slug": "fourth-projects",
     "status": "up",
-    "uptime": "69.81%",
+    "uptime": "69.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
@@ -63,7 +63,7 @@
     "time": 459,
     "timeDay": 234,
     "timeWeek": 478,
-    "timeMonth": 500,
+    "timeMonth": 498,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2025-03-01": 89,
@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofishacademy.com.ico",
     "slug": "go-fish-academy-and-tacklebox",
     "status": "down",
-    "uptime": "87.40%",
+    "uptime": "87.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "56.42%",
+    "uptimeYear": "56.40%",
     "time": 1979,
     "timeDay": 642,
     "timeWeek": 864,
     "timeMonth": 846,
     "timeYear": 1807,
     "dailyMinutesDown": {
-      "2025-03-23": 354,
+      "2025-03-23": 462,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -319,7 +319,7 @@
     "time": 1061,
     "timeDay": 1419,
     "timeWeek": 1495,
-    "timeMonth": 1501,
+    "timeMonth": 1491,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-03-01": 88,
@@ -356,7 +356,7 @@
     "time": 2116,
     "timeDay": 1795,
     "timeWeek": 2387,
-    "timeMonth": 2408,
+    "timeMonth": 2401,
     "timeYear": 2006,
     "dailyMinutesDown": {
       "2025-03-01": 87,
@@ -381,7 +381,7 @@
     "time": 1047,
     "timeDay": 1661,
     "timeWeek": 1836,
-    "timeMonth": 1805,
+    "timeMonth": 1801,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2025-03-01": 87,
@@ -407,7 +407,7 @@
     "time": 666,
     "timeDay": 276,
     "timeWeek": 635,
-    "timeMonth": 635,
+    "timeMonth": 627,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-03-01": 86,
@@ -484,18 +484,19 @@
     "url": "https://www.yudusalons.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yudusalons.com.ico",
     "slug": "yudu-salons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.16%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "96.15%",
     "uptimeMonth": "95.71%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 380,
-    "timeDay": 113,
+    "timeDay": 165,
     "timeWeek": 388,
-    "timeMonth": 357,
+    "timeMonth": 359,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2025-03-23": 1,
       "2025-03-22": 21,
       "2025-03-21": 56,
       "2025-03-20": 18,
@@ -542,7 +543,7 @@
       "2025-02-05": 62,
       "2025-02-04": 72,
       "2025-02-03": 78,
-      "2025-02-02": 59
+      "2025-02-02": 23
     }
   },
   {
@@ -559,7 +560,7 @@
     "time": 1022,
     "timeDay": 763,
     "timeWeek": 1205,
-    "timeMonth": 1265,
+    "timeMonth": 1260,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-03-01": 86,
@@ -584,7 +585,7 @@
     "time": 750,
     "timeDay": 664,
     "timeWeek": 907,
-    "timeMonth": 897,
+    "timeMonth": 892,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2025-03-01": 85,
@@ -607,17 +608,16 @@
     "slug": "advantage-print-solutions",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "96.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.34%",
     "time": 11879,
-    "timeDay": 11104,
+    "timeDay": 11092,
     "timeWeek": 15273,
     "timeMonth": 16514,
     "timeYear": 11755,
     "dailyMinutesDown": {
-      "2025-03-23": 11,
       "2025-03-20": 46,
       "2025-03-18": 19,
       "2025-03-16": 59,
@@ -645,7 +645,7 @@
       "2025-01-19": 181,
       "2025-01-18": 212,
       "2025-01-17": 311,
-      "2025-01-16": 17
+      "2025-01-16": 44
     }
   }
 ]
