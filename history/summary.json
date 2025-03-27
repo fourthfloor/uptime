@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofishacademy.com.ico",
     "slug": "go-fish-academy-and-tacklebox",
     "status": "down",
-    "uptime": "87.14%",
+    "uptime": "87.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "55.38%",
+    "uptimeYear": "55.36%",
     "time": 1965,
     "timeDay": 632,
     "timeWeek": 819,
     "timeMonth": 842,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2025-03-27": 74,
+      "2025-03-27": 189,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -438,7 +438,7 @@
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.77%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "98.35%",
     "time": 720,
     "timeDay": 941,
@@ -494,9 +494,9 @@
     "url": "https://www.yudusalons.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yudusalons.com.ico",
     "slug": "yudu-salons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "96.28%",
+    "uptimeDay": "97.97%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "95.76%",
     "uptimeYear": "99.37%",
@@ -506,6 +506,7 @@
     "timeMonth": 400,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2025-03-27": 1,
       "2025-03-26": 54,
       "2025-03-25": 53,
       "2025-03-24": 48,
@@ -554,7 +555,7 @@
       "2025-02-08": 31,
       "2025-02-06": 52,
       "2025-02-05": 62,
-      "2025-02-04": 28
+      "2025-02-04": 8
     }
   },
   {
@@ -629,7 +630,7 @@
     "timeDay": 11801,
     "timeWeek": 12932,
     "timeMonth": 15477,
-    "timeYear": 11732,
+    "timeYear": 11721,
     "dailyMinutesDown": {
       "2025-03-26": 43,
       "2025-03-25": 19,
