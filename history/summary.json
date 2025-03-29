@@ -13,7 +13,7 @@
     "time": 505,
     "timeDay": 624,
     "timeWeek": 489,
-    "timeMonth": 533,
+    "timeMonth": 534,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-03-25": 25,
@@ -64,7 +64,7 @@
     "time": 460,
     "timeDay": 639,
     "timeWeek": 428,
-    "timeMonth": 481,
+    "timeMonth": 486,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-03-25": 24,
@@ -109,15 +109,16 @@
     "uptime": "87.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
-    "uptimeYear": "54.85%",
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "54.83%",
     "time": 1957,
     "timeDay": 970,
     "timeWeek": 810,
-    "timeMonth": 843,
+    "timeMonth": 846,
     "timeYear": 1789,
     "dailyMinutesDown": {
-      "2025-03-28": 1418,
+      "2025-03-29": 74,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -298,7 +299,7 @@
     "time": 1544,
     "timeDay": 794,
     "timeWeek": 1952,
-    "timeMonth": 1780,
+    "timeMonth": 1761,
     "timeYear": 1598,
     "dailyMinutesDown": {
       "2025-03-21": 24,
@@ -326,7 +327,7 @@
     "time": 1068,
     "timeDay": 1986,
     "timeWeek": 1615,
-    "timeMonth": 1530,
+    "timeMonth": 1526,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-03-25": 23,
@@ -364,7 +365,7 @@
     "time": 2117,
     "timeDay": 2561,
     "timeWeek": 2162,
-    "timeMonth": 2358,
+    "timeMonth": 2360,
     "timeYear": 2024,
     "dailyMinutesDown": {
       "2025-03-25": 23,
@@ -390,7 +391,7 @@
     "time": 1057,
     "timeDay": 1948,
     "timeWeek": 1505,
-    "timeMonth": 1714,
+    "timeMonth": 1718,
     "timeYear": 1065,
     "dailyMinutesDown": {
       "2025-03-25": 22,
@@ -417,7 +418,7 @@
     "time": 665,
     "timeDay": 700,
     "timeWeek": 535,
-    "timeMonth": 617,
+    "timeMonth": 621,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-03-25": 22,
@@ -439,12 +440,12 @@
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "98.35%",
     "time": 717,
     "timeDay": 554,
     "timeWeek": 739,
-    "timeMonth": 685,
+    "timeMonth": 690,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2025-02-28": 926,
@@ -477,7 +478,7 @@
     "time": 539,
     "timeDay": 475,
     "timeWeek": 563,
-    "timeMonth": 533,
+    "timeMonth": 529,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2024-12-07": 73,
@@ -499,12 +500,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.04%",
-    "uptimeMonth": "95.91%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "99.37%",
     "time": 386,
     "timeDay": 783,
     "timeWeek": 529,
-    "timeMonth": 431,
+    "timeMonth": 437,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-03-27": 87,
@@ -571,7 +572,7 @@
     "time": 1025,
     "timeDay": 1443,
     "timeWeek": 1073,
-    "timeMonth": 1229,
+    "timeMonth": 1236,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2025-03-25": 21,
@@ -597,7 +598,7 @@
     "time": 753,
     "timeDay": 951,
     "timeWeek": 885,
-    "timeMonth": 902,
+    "timeMonth": 903,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2025-03-25": 21,
@@ -621,17 +622,17 @@
     "slug": "advantage-print-solutions",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.34%",
     "time": 11841,
     "timeDay": 12391,
     "timeWeek": 11442,
-    "timeMonth": 15393,
+    "timeMonth": 15364,
     "timeYear": 11700,
     "dailyMinutesDown": {
-      "2025-03-28": 50,
+      "2025-03-28": 37,
       "2025-03-26": 43,
       "2025-03-25": 19,
       "2025-03-24": 24,
@@ -661,7 +662,7 @@
       "2025-01-20": 275,
       "2025-01-19": 181,
       "2025-01-18": 212,
-      "2025-01-17": 175
+      "2025-01-17": 191
     }
   }
 ]
