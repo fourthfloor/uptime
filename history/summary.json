@@ -112,14 +112,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.60%",
+    "uptimeYear": "53.59%",
     "time": 1944,
     "timeDay": 892,
     "timeWeek": 803,
     "timeMonth": 839,
     "timeYear": 1769,
     "dailyMinutesDown": {
-      "2025-04-02": 785,
+      "2025-04-02": 841,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -506,10 +506,10 @@
     "url": "https://www.yudusalons.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yudusalons.com.ico",
     "slug": "yudu-salons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "96.82%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.37%",
     "time": 390,
@@ -518,7 +518,7 @@
     "timeMonth": 416,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-04-02": 39,
+      "2025-04-02": 40,
       "2025-04-01": 18,
       "2025-03-31": 99,
       "2025-03-29": 76,
@@ -564,8 +564,7 @@
       "2025-02-16": 308,
       "2025-02-15": 71,
       "2025-02-14": 28,
-      "2025-02-13": 24,
-      "2025-02-12": 23
+      "2025-02-13": 24
     }
   },
   {
