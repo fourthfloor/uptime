@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fourthfloorinteractive.com.ico",
     "slug": "fourth-floor-interactive",
     "status": "up",
-    "uptime": "92.73%",
+    "uptime": "92.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.71%",
@@ -116,14 +116,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.82%",
+    "uptimeYear": "51.80%",
     "time": 1919,
     "timeDay": 889,
     "timeWeek": 774,
     "timeMonth": 829,
     "timeYear": 1746,
     "dailyMinutesDown": {
-      "2025-04-09": 75,
+      "2025-04-09": 187,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -526,7 +526,7 @@
     "slug": "yudu-salons",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "97.16%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "99.43%",
@@ -653,9 +653,9 @@
     "url": "https://www.advantageprintsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.advantageprintsolutions.com.ico",
     "slug": "advantage-print-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "91.42%",
+    "uptimeDay": "91.39%",
     "uptimeWeek": "95.96%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.30%",
@@ -665,6 +665,7 @@
     "timeMonth": 12967,
     "timeYear": 11677,
     "dailyMinutesDown": {
+      "2025-04-09": 1,
       "2025-04-08": 124,
       "2025-04-07": 36,
       "2025-04-06": 21,
@@ -703,7 +704,7 @@
       "2025-01-21": 177,
       "2025-01-20": 275,
       "2025-01-19": 181,
-      "2025-01-18": 89
+      "2025-01-18": 69
     }
   }
 ]
